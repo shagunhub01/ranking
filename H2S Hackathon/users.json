@@ -1,0 +1,62 @@
+[
+  {
+    "email": "recruiter@talentiq.ai",
+    "password": "admin123",
+    "name": "Sarah Jenkins",
+    "company": "SkillMatch"
+  },
+  {
+    "email": "test.hr@hiring.com",
+    "password": "mypassword123",
+    "name": "Jane Test",
+    "company": "Test Company"
+  },
+  {
+    "email": "shaguntiwari2006@gmail.com",
+    "password": "1234567890",
+    "name": "Shagun Tiwari",
+    "company": "Google"
+  },
+  {
+    "email": "test.hr.1782245500@hiring.com",
+    "password": "mypassword123",
+    "name": "Jane Test 1782245500",
+    "company": "Test Company"
+  },
+  {
+    "email": "test.hr.1782245545@hiring.com",
+    "password": "mypassword123",
+    "name": "Jane Test 1782245545",
+    "company": "Test Company"
+  },
+  {
+    "email": "shaguntiwari@gmail.com",
+    "password": "1234567890",
+    "name": "Shagun",
+    "company": "Google"
+  },
+  {
+    "email": "test.hr.1782245803@hiring.com",
+    "password": "mypassword123",
+    "name": "Jane Test 1782245803",
+    "company": "Test Company"
+  },
+  {
+    "email": "test.hr.1782246128@hiring.com",
+    "password": "mypassword123",
+    "name": "Jane Test 1782246128",
+    "company": "Test Company"
+  },
+  {
+    "email": "test.hr.1782246783@hiring.com",
+    "password": "mypassword123",
+    "name": "Jane Test 1782246783",
+    "company": "Test Company"
+  },
+  {
+    "email": "test.hr.1782246838@hiring.com",
+    "password": "mypassword123",
+    "name": "Jane Test 1782246838",
+    "company": "Test Company"
+  }
+]

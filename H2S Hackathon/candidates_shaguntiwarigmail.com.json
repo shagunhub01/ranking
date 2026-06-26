@@ -1,0 +1,362 @@
+[
+  {
+    "id": "cand-383175319052",
+    "name": "10 0 Skills",
+    "title": "Software Engineer",
+    "experience": 3,
+    "education": "B.S. in Computer Science",
+    "email": "10.0.skills@example.com",
+    "phone": "20260623195322",
+    "location": "Remote",
+    "summary": "opensource (anonymous\\ D:20260623195322+00'00' (unspecified\\ D:20260623195322+00'00' ReportLab PDF Library - (opensource\\ (unspecified\\ (anonymous\\ >/9idY- qqk7ua*0$#mEr-,b*@(KJa`.7mSM#*[aoSAB:&2R]T[!G>J1T2=.Lfe4Y'%m'S%ipJ@OpnOKI/-SW[K<_V^ opensource",
+    "skills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "matchedSkills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "missingSkills": [],
+    "assessment_score": 80,
+    "responsiveness": 85,
+    "github_commits": 120,
+    "growth_velocity": 75,
+    "average_tenure": 2.5,
+    "search_intent": "Active",
+    "timeline": [
+      {
+        "role": "Software Engineer",
+        "company": "Tech Corp",
+        "period": "2023 - Present",
+        "desc": "Worked with Python, SQL, Docker."
+      }
+    ]
+  },
+  {
+    "id": "cand-263641110180",
+    "name": "01 All 9 Skills",
+    "title": "Software Engineer",
+    "experience": 3,
+    "education": "B.S. in Computer Science",
+    "email": "01.all.9.skills@example.com",
+    "phone": "20260623195322",
+    "location": "Remote",
+    "summary": "opensource (anonymous\\ D:20260623195322+00'00' (unspecified\\ D:20260623195322+00'00' ReportLab PDF Library - (opensource\\ (unspecified\\ (anonymous\\ .F'0,3S,uon0A>f->:=TnTj@O:ft3[Q3=q8AV(%o+<`\\S%mB[5n\" jq8SpV&f!X6_1s`[jZD?K+#9&2o-3H*3M4NH:*%NJbN7mAMGe...",
+    "skills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "matchedSkills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "missingSkills": [],
+    "assessment_score": 80,
+    "responsiveness": 85,
+    "github_commits": 120,
+    "growth_velocity": 75,
+    "average_tenure": 2.5,
+    "search_intent": "Active",
+    "timeline": [
+      {
+        "role": "Software Engineer",
+        "company": "Tech Corp",
+        "period": "2023 - Present",
+        "desc": "Worked with Python, SQL, Docker."
+      }
+    ]
+  },
+  {
+    "id": "cand-1017268015181",
+    "name": "02 All 9 Skills",
+    "title": "Software Engineer",
+    "experience": 3,
+    "education": "B.S. in Computer Science",
+    "email": "02.all.9.skills@example.com",
+    "phone": "20260623195322",
+    "location": "Remote",
+    "summary": "opensource (anonymous\\ D:20260623195322+00'00' (unspecified\\ D:20260623195322+00'00' ReportLab PDF Library - (opensource\\ (unspecified\\ (anonymous\\ .F'0,3S,uon0A>f->:=TnTj@O:ft3[Q3=q8AV(%o+<`\\S%mB[5n\" opensource",
+    "skills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "matchedSkills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "missingSkills": [],
+    "assessment_score": 80,
+    "responsiveness": 85,
+    "github_commits": 120,
+    "growth_velocity": 75,
+    "average_tenure": 2.5,
+    "search_intent": "Active",
+    "timeline": [
+      {
+        "role": "Software Engineer",
+        "company": "Tech Corp",
+        "period": "2023 - Present",
+        "desc": "Worked with Python, SQL, Docker."
+      }
+    ]
+  },
+  {
+    "id": "cand-129942335292",
+    "name": "03 7 Skills",
+    "title": "Software Engineer",
+    "experience": 3,
+    "education": "B.S. in Computer Science",
+    "email": "03.7.skills@example.com",
+    "phone": "20260623195322",
+    "location": "Remote",
+    "summary": "opensource (anonymous\\ D:20260623195322+00'00' (unspecified\\ D:20260623195322+00'00' ReportLab PDF Library - (opensource\\ (unspecified\\ (anonymous\\ T(TX]/d/ID?%9*GX?5XLq3U$(9Z^3e!6]>OOu'_'1`pWUDcn0qHXV;PjBGjl`XD.P@f04e\"HoeY4YK\\-\\\"/9&;hDk(TBDH$\\'D+5hn...",
+    "skills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "matchedSkills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "missingSkills": [],
+    "assessment_score": 80,
+    "responsiveness": 85,
+    "github_commits": 120,
+    "growth_velocity": 75,
+    "average_tenure": 2.5,
+    "search_intent": "Active",
+    "timeline": [
+      {
+        "role": "Software Engineer",
+        "company": "Tech Corp",
+        "period": "2023 - Present",
+        "desc": "Worked with Python, SQL, Docker."
+      }
+    ]
+  },
+  {
+    "id": "cand-966995058403",
+    "name": "04 7 Skills",
+    "title": "Software Engineer",
+    "experience": 3,
+    "education": "B.S. in Computer Science",
+    "email": "04.7.skills@example.com",
+    "phone": "20260623195322",
+    "location": "Remote",
+    "summary": "opensource (anonymous\\ D:20260623195322+00'00' (unspecified\\ D:20260623195322+00'00' ReportLab PDF Library - (opensource\\ (unspecified\\ (anonymous\\ L[Ft`\\Wu+(WWjlq;9<&-fYrc-Q=Xh4hf!&\\dXQCA4]2t\\-dOM7Jbf3a_-G\"l[koEJX06OGpF8Vi`dq510?coZ2(M2'\"SbV!m79tW*R...",
+    "skills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "matchedSkills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "missingSkills": [],
+    "assessment_score": 80,
+    "responsiveness": 85,
+    "github_commits": 120,
+    "growth_velocity": 75,
+    "average_tenure": 2.5,
+    "search_intent": "Active",
+    "timeline": [
+      {
+        "role": "Software Engineer",
+        "company": "Tech Corp",
+        "period": "2023 - Present",
+        "desc": "Worked with Python, SQL, Docker."
+      }
+    ]
+  },
+  {
+    "id": "cand-553881721679",
+    "name": "05 5 Skills",
+    "title": "Software Engineer",
+    "experience": 3,
+    "education": "B.S. in Computer Science",
+    "email": "05.5.skills@example.com",
+    "phone": "20260623195322",
+    "location": "Remote",
+    "summary": "opensource (anonymous\\ D:20260623195322+00'00' (unspecified\\ D:20260623195322+00'00' ReportLab PDF Library - (opensource\\ (unspecified\\ (anonymous\\ 3@>N_7df+P+YD`Y.]^OeXe!VCDktdcNTWNmPIj=@1g&m^U[I9`-o*837V2dU*9p:D3@-&?V(W\\emd$D'*F35[m`^4i\"gm8bZE/F[`\\...",
+    "skills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "matchedSkills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "missingSkills": [],
+    "assessment_score": 80,
+    "responsiveness": 85,
+    "github_commits": 120,
+    "growth_velocity": 75,
+    "average_tenure": 2.5,
+    "search_intent": "Active",
+    "timeline": [
+      {
+        "role": "Software Engineer",
+        "company": "Tech Corp",
+        "period": "2023 - Present",
+        "desc": "Worked with Python, SQL, Docker."
+      }
+    ]
+  },
+  {
+    "id": "cand-907035471703",
+    "name": "06 4 Skills",
+    "title": "Software Engineer",
+    "experience": 3,
+    "education": "B.S. in Computer Science",
+    "email": "06.4.skills@example.com",
+    "phone": "20260623195322",
+    "location": "Remote",
+    "summary": "opensource (anonymous\\ D:20260623195322+00'00' (unspecified\\ D:20260623195322+00'00' ReportLab PDF Library - (opensource\\ (unspecified\\ (anonymous\\ %93jehnU$J^`7ZdNgHDO`mm2;e7d;CP'M(rB^]UTEulSabN\"5n$Bonpg>6]#'a!iHt-P(C'c4r!B%nk7:-Y]<t6O2K#LWJV!me>&qm...",
+    "skills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "matchedSkills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "missingSkills": [],
+    "assessment_score": 80,
+    "responsiveness": 85,
+    "github_commits": 120,
+    "growth_velocity": 75,
+    "average_tenure": 2.5,
+    "search_intent": "Active",
+    "timeline": [
+      {
+        "role": "Software Engineer",
+        "company": "Tech Corp",
+        "period": "2023 - Present",
+        "desc": "Worked with Python, SQL, Docker."
+      }
+    ]
+  },
+  {
+    "id": "cand-576630412119",
+    "name": "07 2 Skills",
+    "title": "Software Engineer",
+    "experience": 3,
+    "education": "B.S. in Computer Science",
+    "email": "07.2.skills@example.com",
+    "phone": "20260623195322",
+    "location": "Remote",
+    "summary": "opensource (anonymous\\ D:20260623195322+00'00' (unspecified\\ D:20260623195322+00'00' ReportLab PDF Library - (opensource\\ (unspecified\\ (anonymous\\ $inaq%O\"sS+p@dq#kMSHSd<^_Ro20i<4gd1[>H opensource",
+    "skills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "matchedSkills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "missingSkills": [],
+    "assessment_score": 80,
+    "responsiveness": 85,
+    "github_commits": 120,
+    "growth_velocity": 75,
+    "average_tenure": 2.5,
+    "search_intent": "Active",
+    "timeline": [
+      {
+        "role": "Software Engineer",
+        "company": "Tech Corp",
+        "period": "2023 - Present",
+        "desc": "Worked with Python, SQL, Docker."
+      }
+    ]
+  },
+  {
+    "id": "cand-621084434687",
+    "name": "08 2 Skills",
+    "title": "Software Engineer",
+    "experience": 3,
+    "education": "B.S. in Computer Science",
+    "email": "08.2.skills@example.com",
+    "phone": "20260623195322",
+    "location": "Remote",
+    "summary": "opensource (anonymous\\ D:20260623195322+00'00' (unspecified\\ D:20260623195322+00'00' ReportLab PDF Library - (opensource\\ (unspecified\\ (anonymous\\ (-nbRMT 7F'+;hb4<$4HsaDJ1$>g(BR1l$ ./!d`-Lo1:P.eh>\\WLIbVo0G<s_9^\\_@0*:!E&Z9jB9[[G2T?@P`,LId%]5H&KI%fOg...",
+    "skills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "matchedSkills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "missingSkills": [],
+    "assessment_score": 80,
+    "responsiveness": 85,
+    "github_commits": 120,
+    "growth_velocity": 75,
+    "average_tenure": 2.5,
+    "search_intent": "Active",
+    "timeline": [
+      {
+        "role": "Software Engineer",
+        "company": "Tech Corp",
+        "period": "2023 - Present",
+        "desc": "Worked with Python, SQL, Docker."
+      }
+    ]
+  },
+  {
+    "id": "cand-305705314525",
+    "name": "09 0 Skills",
+    "title": "Software Engineer",
+    "experience": 3,
+    "education": "B.S. in Computer Science",
+    "email": "09.0.skills@example.com",
+    "phone": "20260623195322",
+    "location": "Remote",
+    "summary": "opensource (anonymous\\ D:20260623195322+00'00' (unspecified\\ D:20260623195322+00'00' ReportLab PDF Library - (opensource\\ (unspecified\\ (anonymous\\ (-m7bR5uT;:?l(Fq_^+IC#nRPbK:O>ia,Qq9FYeLkhg245`upp6gJOW&^6d\"k5'\".f7B@[W3oR(+bfXPd 44`l\\Cg$ opensource",
+    "skills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "matchedSkills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "missingSkills": [],
+    "assessment_score": 80,
+    "responsiveness": 85,
+    "github_commits": 120,
+    "growth_velocity": 75,
+    "average_tenure": 2.5,
+    "search_intent": "Active",
+    "timeline": [
+      {
+        "role": "Software Engineer",
+        "company": "Tech Corp",
+        "period": "2023 - Present",
+        "desc": "Worked with Python, SQL, Docker."
+      }
+    ]
+  }
+]
