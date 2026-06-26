@@ -127,3 +127,4 @@ When the ranking engine runs, it automatically writes the results to `ranked_sho
 4. Click **"Try Demo"** to load the workspace, or upload a custom job description and ingest resumes.
 5. In the **"Talent Leaderboard"** tab, adjust the range sliders to change weights. The candidate ranks, charts, and CSV file will update automatically.
 6. Click **"Export Predefined CSV"** to download the shortlist.
+   https://ranking-yt0l.onrender.com/
